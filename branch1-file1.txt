@@ -1,4 +1,5 @@
 file branch 1
   edit file 1
 edit file 2 main
-edit file 3 branch2
+edit file 3 branch3
+
